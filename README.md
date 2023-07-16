@@ -1,8 +1,3 @@
-# Weather Forecasting GUI
-
-Author: Kennedy Smith
-
-Email: kennedy.smith@yale.edu
 
 This project is a GUI-based weather forecasting application. It uses historical weather data from the National Centers for Environmental Information (NCEI) and elevation data from the GeoNames public API to predict the temperature for the next six days at a given location. The application also predicts the next day's weather condition (Clear, Cloudy, Rainy or Snowy) based on current weather state, elevation, and temperature. ``All explanations for decisions made by the application are printed to the console.``
 
